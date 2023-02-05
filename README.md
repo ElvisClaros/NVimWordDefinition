@@ -1,0 +1,2 @@
+# NVimWordDefinition
+Define en vim
