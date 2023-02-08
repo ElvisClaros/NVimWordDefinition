@@ -12,5 +12,9 @@ Then run `:PlugInstall` in Neovim.
 
 `:ShowDefinition`.
 
+## Requirements
+- Neovim
+- sdcv
+
 ## License
 GNU General Public License v3.0 or later.
